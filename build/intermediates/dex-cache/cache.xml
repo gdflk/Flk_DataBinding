@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudio\project\DataBind\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7a4afb7b11d3cabedb6a595e7fd3aaabc180b54a">
+        <dex dex="D:\AndroidStudio\project\DataBind\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5e6c5df06fbd6833d7e8d66a35fbb98b497ddfa7\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\AndroidStudio\project\DataBind\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_cf62de8b66a16f96f83d98d465b769d3dc7c5d8f\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\project\DataBind\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\AndroidStudio\project\DataBind\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_cd6633df4b600fe47bc87b356a3e1105a80878af\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\project\DataBind\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\AndroidStudio\project\DataBind\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_c89b759a6094095bf52468b89300c747b8cb4f44\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\project\DataBind\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\AndroidStudio\project\DataBind\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_18337d31cfc3a3c78be4864600b370b4224f04c7\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\project\DataBind\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\AndroidStudio\project\DataBind\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_75d5ad9477400177a9d93eb2667b3b10d39fc906\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\AndroidStudio\gradle\m2repository\com\android\databinding\baseLibrary\2.1.0\baseLibrary-2.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a7aeef173c4e5b104ec04f146f8e8f9debde1c5e">
+        <dex dex="D:\AndroidStudio\project\DataBind\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.1.0_87a198ff3507721f70089a7979992376402e6ccd\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\project\DataBind\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eab7980b04fd428d44a976a37a102121b75f6331">
+        <dex dex="D:\AndroidStudio\project\DataBind\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b30846101a1569f8583aa4d1831b0e1cd3787489\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\project\DataBind\app\build\intermediates\exploded-aar\com.android.databinding\library\1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d985cdf99de8a63824b52d8a8efc309f9e5fbf01">
+        <dex dex="D:\AndroidStudio\project\DataBind\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-library-1.1_95be1d49c0822d1dfec49fad92815bb0e640c21c\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\project\DataBind\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\AndroidStudio\project\DataBind\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_d7c038653d93bba7dc18dc6bc7c7af8a51f5bb9c\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\project\DataBind\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\AndroidStudio\project\DataBind\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_96d30792249feb3508482e4e0e17c50f82d261b0\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\project\DataBind\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3cae403175958af8baa00bed0bd6e04187d69415">
+        <dex dex="D:\AndroidStudio\project\DataBind\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.databinding-adapters-1.1_5cd0553319813caa54d25b39972f135792c23fd4\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\project\DataBind\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\AndroidStudio\project\DataBind\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_0cebbe9fcebfc2482dc0c2052e1bcaee6df3ce97\classes.dex" />
+    </item>
+
+</items>

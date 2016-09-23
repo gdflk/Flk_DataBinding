@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <data>
+        <!--导入要用的类-->
+        <import type="android.graphics.Color"/>
+        <import type="com.flk.databind.content.UserEntity"/>
+        <variable
+            name="user"
+            type="UserEntity"/>
+<!-- 一个布局不能使用多个class，编译时找不到第二个class里的对象
+        <variable
+            name="score"
+            type="com.flk.databind.content.ScoreEntity"/>-->
+
+        <variable
+            name="score"
+            type="String"/>
+    </data>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginLeft="30dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            app:imageLoad="@{user.iconUrl}"/>
+
+        <!--拼接字符串不能为中文，两边的符号用的是数字1键左边的~键-->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@{`name : ` + user.userName}"/>
+        <!--非NUll判断-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@{`desn : ` + user.userDesn ?? user.userName}"/>
+
+        <!--数据类型转换-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:text="@{`age : `+ String.valueOf(user.age)}"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:background="@{user.sex.equals(`女`) ? Color.BLUE:Color.GREEN}"
+            android:text="@{`sex : `+user.sex}"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="--------------------------------------------"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@{`score : ` + score}"/>
+    </LinearLayout>
+</layout>
